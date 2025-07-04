@@ -1,7 +1,8 @@
-# Expense Tracker
+## Expense Tracker
 The Expense Tracker is a simple, responsive web app that allows users to manage their personal finances by adding incomes and expenses. It calculates and displays the balance, total income, and total expenses in real-time.
 
-🚀 Features
+**🚀 Features**:
+---
 ✅ Add transactions
 
 Add incomes (positive values) and expenses (negative values).
@@ -27,50 +28,39 @@ Notifies you if required fields are left empty.
 Works smoothly on desktop and mobile browsers.
 
 📂 Project Structure
+----
 bash
+
 Copy
+
 Edit
 expense-tracker/
-├── index.html        # Main HTML file
-├── style.css         # CSS styles
-├── script.js         # JavaScript logic
-└── README.md         # Project documentation
 
+├── index.html  
 
-⚙️ Getting Started
-1️⃣ Clone the repository
-bash
-Copy
-Edit
+├── style.css  
+
+├── script.js
+
+└── README.md         
+
 git clone https://github.com/your-username/expense-tracker.git
-2️⃣ Navigate to the project directory
-bash
-Copy
-Edit
-cd expense-tracker
-3️⃣ Open the app
-You can simply open index.html in your web browser:
-
-bash
-Copy
-Edit
-
-
-bash
-Copy
-Edit
-Example using Python
-python3 -m http.server
-Then visit http://localhost:8000.
-
-🛠 Usage
+----
+# 🛠 Usage
 1️⃣ Open the app in your browser.
+
 2️⃣ Select an expense Category (e.g., Food & Beverage, Rent).
+
 3️⃣ Enter the Amount (numbers only).
+
 4️⃣ Choose the Date of the expense.
+
 5️⃣ Click Add to save the entry.
+
 6️⃣ The expense will appear in the list with the category, amount, and date.
+
 7️⃣ Click Delete to remove any expense from the list.
+
 8️⃣ The Total amount updates automatically as you add or remove expenses.
 
 📌 Example Categories
@@ -121,7 +111,8 @@ Build a mobile version using React Native or Flutter.
 ![image](https://github.com/user-attachments/assets/e979d59e-acb5-4f8a-961f-3e7aba6e866d)
 
 
-💻 Technologies Used
+# 💻 Technologies Used
+
 HTML5
 
 CSS3
