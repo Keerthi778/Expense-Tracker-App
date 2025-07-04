@@ -1,4 +1,4 @@
-Expense Tracker
+# Expense Tracker
 The Expense Tracker is a simple, responsive web app that allows users to manage their personal finances by adding incomes and expenses. It calculates and displays the balance, total income, and total expenses in real-time.
 
 🚀 Features
@@ -54,14 +54,12 @@ You can simply open index.html in your web browser:
 bash
 Copy
 Edit
-# Or double-click the file
-open index.html
-Alternatively, use a local server (recommended for Chrome):
+
 
 bash
 Copy
 Edit
-# Example using Python
+Example using Python
 python3 -m http.server
 Then visit http://localhost:8000.
 
